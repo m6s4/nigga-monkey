@@ -1,0 +1,7 @@
+{
+    "prefix":"", //prefix
+    "token":"", //discord.dev token
+    "DisableEveryone": false, //keep ass false
+    "ID": "", //your discord id
+    "founder": "" //your name
+}
